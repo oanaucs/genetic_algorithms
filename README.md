@@ -1,1 +1,2 @@
-# genetic_algorithms
+# Genetic Algorithms
+## Hyperparameter tuning with genetic algorithms
