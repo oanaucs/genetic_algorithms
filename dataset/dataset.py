@@ -24,3 +24,9 @@ class Dataset():
 
 	def details(self):
 		return self.data.details
+
+	def train_split(self):
+		pass
+
+	def test_split(self):
+		pass

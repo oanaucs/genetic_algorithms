@@ -2,7 +2,7 @@ import numpy as np
 
 from itertools import combinations
 
-def Evolution():
+def EvolutionStrategy():
 	def __init__(self, hyperparameter_pool, evolution_opts):
 		self.hyperparameter_pool = hyperparameter_pool
 		self.hyperparamer_names = list(self.hyperparameter_pool.keys())
